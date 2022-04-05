@@ -2,6 +2,10 @@
 
 A modern to do list app. Can be personalized or shared with friends.
 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
